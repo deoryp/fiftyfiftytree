@@ -4,9 +4,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "coffee-script": "latest",
+    "coffee-script": "1.6.1",
     "express": "3.x",
     "mongoose": "latest",
+    "mongodb": "latest",
     "passport": "latest",
     "passport-local": "latest"
   }
